@@ -41,7 +41,7 @@ challenge_result = challenge_result_def()
 
 # Использование %
 
-print('В команде %s участников: %d!' % (team1,team1_num))
+print('В команде %s участников: %d!' % (team1, team1_num))
 print('Итого сегодня в командах участников: %s и %d!' % (team1_num, team2_num))
 
 # Использование format()
